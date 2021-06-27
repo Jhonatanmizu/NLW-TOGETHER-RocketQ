@@ -21,4 +21,4 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 #Sobre o projeto
 
 
-Foi desenvolvida uma aplicação na qual é possibilita os usuários interagir por meio de perguntas anônimas.
+Foi desenvolvida uma aplicação na qual possibilita aos usuários interagir por meio de perguntas anônimas.
