@@ -16,5 +16,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - EJS
 - Express
 - SQLite
+
+
 #Sobre o projeto
 Foi desenvolvida uma aplicação na qual é possibilita os usuários interagir por meio de perguntas anônimas
