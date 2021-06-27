@@ -1,0 +1,23 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido com o objetivo de gerenciar perguntas, realizado durante a nlw-together, pelo estudante Jhonatan",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon .",
+    "initDB": "node src/db/init.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jhonatan Jesus",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

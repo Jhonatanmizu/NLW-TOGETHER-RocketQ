@@ -12,7 +12,7 @@ header{
 }
 #bg{
     grid-area: left;
-    background: url('/assets/img/home-bg-img.svg') no-repeat top/contain;
+    background: url('/images/img/home-bg-img.svg') no-repeat top/contain;
     background-position-x: -10rem;
 }
 main{
@@ -38,6 +38,7 @@ input{
     padding: 0 1.6rem;
     height:5rem;
     border-radius: 0.8rem;
+    outline: none;
 
 }
 input, button, .button{
