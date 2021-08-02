@@ -4,7 +4,7 @@
 #NLW TOGETHER
 
 ## Minha primeira experiência participando da next level week.
-foi top pude colocar meus conhecimentos e além disso, aprendi muita coisa coisa durante as aulas. 
+foi top pude colocar meus conhecimentos em prática e além disso, aprendi muita coisa coisa durante as aulas. 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
